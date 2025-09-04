@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myCom\\Documents\\GitHub\\16th-party\\TeamProject - Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11AB6AF2-0B6A-46B1-B954-89CE9ACE4ED8}|TeamProject - Shop\\TeamProject - Shop.vcxproj|C:\\Users\\myCom\\Documents\\GitHub\\16th-party\\TeamProject - Shop\\TeamProject - Shop\\Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11AB6AF2-0B6A-46B1-B954-89CE9ACE4ED8}|TeamProject - Shop\\TeamProject - Shop.vcxproj|solutionrelative:TeamProject - Shop\\Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop.cpp",
+              "DocumentMoniker": "C:\\Users\\myCom\\Documents\\GitHub\\16th-party\\TeamProject - Shop\\TeamProject - Shop\\Shop.cpp",
+              "RelativeDocumentMoniker": "TeamProject - Shop\\Shop.cpp",
+              "ToolTip": "C:\\Users\\myCom\\Documents\\GitHub\\16th-party\\TeamProject - Shop\\TeamProject - Shop\\Shop.cpp",
+              "RelativeToolTip": "TeamProject - Shop\\Shop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T02:34:27.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
