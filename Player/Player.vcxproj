@@ -123,8 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MainTestL.cpp" />
+    <ClCompile Include="Player.cpp" />
     <ClCompile Include="PlayerU.cpp" />
     <ClCompile Include="PlayrL.cpp" />
+    <ClCompile Include="StatusTestL.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Player.h" />
