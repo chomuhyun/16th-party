@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\16th-party\\GameManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55C667CC-2618-46BF-809E-94CEF70BA1A7}|GameManager.vcxproj|D:\\16th-party\\GameManager\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C667CC-2618-46BF-809E-94CEF70BA1A7}|GameManager.vcxproj|solutionrelative:GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "D:\\16th-party\\GameManager\\GameManager.cpp",
+              "RelativeDocumentMoniker": "GameManager.cpp",
+              "ToolTip": "D:\\16th-party\\GameManager\\GameManager.cpp",
+              "RelativeToolTip": "GameManager.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T03:12:23.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
