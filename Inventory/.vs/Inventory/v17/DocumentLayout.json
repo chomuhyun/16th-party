@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|solutionrelative:Inventory\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|solutionrelative:Inventory\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\HealthPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|solutionrelative:Inventory\\HealthPotion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\AttackBoost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|solutionrelative:Inventory\\AttackBoost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\HealthPotion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|solutionrelative:Inventory\\HealthPotion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\AttackBoost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CCBF7BAF-230B-40D9-AD81-01A7E66E4E11}|Inventory\\Inventory.vcxproj|solutionrelative:Inventory\\AttackBoost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Inventory.cpp",
-              "DocumentMoniker": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\Inventory.cpp",
-              "RelativeDocumentMoniker": "Inventory\\Inventory.cpp",
-              "ToolTip": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\Inventory.cpp",
-              "RelativeToolTip": "Inventory\\Inventory.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\Item.h",
+              "RelativeDocumentMoniker": "Inventory\\Item.h",
+              "ToolTip": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\Item.h",
+              "RelativeToolTip": "Inventory\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-04T03:28:33.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthPotion.h",
+              "DocumentMoniker": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\HealthPotion.h",
+              "RelativeDocumentMoniker": "Inventory\\HealthPotion.h",
+              "ToolTip": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\HealthPotion.h",
+              "RelativeToolTip": "Inventory\\HealthPotion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-04T03:28:03.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttackBoost.h",
+              "DocumentMoniker": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\AttackBoost.h",
+              "RelativeDocumentMoniker": "Inventory\\AttackBoost.h",
+              "ToolTip": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\AttackBoost.h",
+              "RelativeToolTip": "Inventory\\AttackBoost.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-04T03:26:57.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttackBoost.cpp",
+              "DocumentMoniker": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\AttackBoost.cpp",
+              "RelativeDocumentMoniker": "Inventory\\AttackBoost.cpp",
+              "ToolTip": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\AttackBoost.cpp",
+              "RelativeToolTip": "Inventory\\AttackBoost.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-04T02:40:50.581Z",
+              "WhenOpened": "2025-09-04T03:26:41.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthPotion.cpp",
+              "DocumentMoniker": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\HealthPotion.cpp",
+              "RelativeDocumentMoniker": "Inventory\\HealthPotion.cpp",
+              "ToolTip": "C:\\Users\\quann\\Documents\\GitHub\\16th-party\\Inventory\\Inventory\\HealthPotion.cpp",
+              "RelativeToolTip": "Inventory\\HealthPotion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T03:26:23.903Z",
               "EditorCaption": ""
             }
           ]
