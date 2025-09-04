@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unreal\\16th-party\\Player\\",
+  "WorkspaceRootPath": "D:\\16th-party\\Player\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BCB76DC-35BD-4046-AB4E-7B849D9BCACA}|Player.vcxproj|D:\\Unreal\\16th-party\\Player\\Playerl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2BCB76DC-35BD-4046-AB4E-7B849D9BCACA}|Player.vcxproj|solutionrelative:Playerl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7803AF9-6664-493A-8C1E-A523CBDEB53F}|Player.vcxproj|D:\\16th-party\\Player\\PlayrL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7803AF9-6664-493A-8C1E-A523CBDEB53F}|Player.vcxproj|solutionrelative:PlayrL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BCB76DC-35BD-4046-AB4E-7B849D9BCACA}|Player.vcxproj|D:\\Unreal\\16th-party\\Player\\testStausl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2BCB76DC-35BD-4046-AB4E-7B849D9BCACA}|Player.vcxproj|solutionrelative:testStausl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7803AF9-6664-493A-8C1E-A523CBDEB53F}|Player.vcxproj|D:\\16th-party\\Player\\PlayerU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7803AF9-6664-493A-8C1E-A523CBDEB53F}|Player.vcxproj|solutionrelative:PlayerU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BCB76DC-35BD-4046-AB4E-7B849D9BCACA}|Player.vcxproj|D:\\Unreal\\16th-party\\Player\\testmainl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2BCB76DC-35BD-4046-AB4E-7B849D9BCACA}|Player.vcxproj|solutionrelative:testmainl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BCB76DC-35BD-4046-AB4E-7B849D9BCACA}|Player.vcxproj|D:\\Unreal\\16th-party\\Player\\Playerl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2BCB76DC-35BD-4046-AB4E-7B849D9BCACA}|Player.vcxproj|solutionrelative:Playerl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7803AF9-6664-493A-8C1E-A523CBDEB53F}|Player.vcxproj|D:\\16th-party\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7803AF9-6664-493A-8C1E-A523CBDEB53F}|Player.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "testStausl.cpp",
-              "DocumentMoniker": "D:\\Unreal\\16th-party\\Player\\testStausl.cpp",
-              "RelativeDocumentMoniker": "testStausl.cpp",
-              "ToolTip": "D:\\Unreal\\16th-party\\Player\\testStausl.cpp",
-              "RelativeToolTip": "testStausl.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-04T03:58:22.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Playerl.cpp",
-              "DocumentMoniker": "D:\\Unreal\\16th-party\\Player\\Playerl.cpp",
-              "RelativeDocumentMoniker": "Playerl.cpp",
-              "ToolTip": "D:\\Unreal\\16th-party\\Player\\Playerl.cpp",
-              "RelativeToolTip": "Playerl.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-04T01:50:12.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "testmainl.cpp",
-              "DocumentMoniker": "D:\\Unreal\\16th-party\\Player\\testmainl.cpp",
-              "RelativeDocumentMoniker": "testmainl.cpp",
-              "ToolTip": "D:\\Unreal\\16th-party\\Player\\testmainl.cpp",
-              "RelativeToolTip": "testmainl.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\16th-party\\Player\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "D:\\16th-party\\Player\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-04T05:19:29.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerU.cpp",
+              "DocumentMoniker": "D:\\16th-party\\Player\\PlayerU.cpp",
+              "RelativeDocumentMoniker": "PlayerU.cpp",
+              "ToolTip": "D:\\16th-party\\Player\\PlayerU.cpp",
+              "RelativeToolTip": "PlayerU.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-04T03:28:02.871Z",
+              "WhenOpened": "2025-09-04T05:19:18.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Playerl.h",
-              "DocumentMoniker": "D:\\Unreal\\16th-party\\Player\\Playerl.h",
-              "RelativeDocumentMoniker": "Playerl.h",
-              "ToolTip": "D:\\Unreal\\16th-party\\Player\\Playerl.h",
-              "RelativeToolTip": "Playerl.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-04T03:24:29.983Z",
+              "Title": "PlayrL.cpp",
+              "DocumentMoniker": "D:\\16th-party\\Player\\PlayrL.cpp",
+              "RelativeDocumentMoniker": "PlayrL.cpp",
+              "ToolTip": "D:\\16th-party\\Player\\PlayrL.cpp",
+              "RelativeToolTip": "PlayrL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T05:19:10.861Z",
               "EditorCaption": ""
             }
           ]

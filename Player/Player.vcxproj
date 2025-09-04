@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2bcb76dc-35bd-4046-ab4e-7b849d9bcaca}</ProjectGuid>
+    <ProjectGuid>{f7803af9-6664-493a-8c1e-a523cbdeb53f}</ProjectGuid>
     <RootNamespace>Player</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -123,12 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Playerl.cpp" />
-    <ClCompile Include="testmainl.cpp" />
-    <ClCompile Include="testStausl.cpp" />
+    <ClCompile Include="PlayerU.cpp" />
+    <ClCompile Include="PlayrL.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Playerl.h" />
+    <ClInclude Include="Player.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
